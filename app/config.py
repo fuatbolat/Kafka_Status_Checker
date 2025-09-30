@@ -1,9 +1,5 @@
 
 
-hostname_ip = ["10.115.209.174"]
-port = 22
-username = "dtuygansible"
-password = "qweASD123!!!"
 
 
 
